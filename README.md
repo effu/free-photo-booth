@@ -16,8 +16,6 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you have to get a development environment running.
 
-Download and run the Free Booth software.
-
 ```
 // config
 ```

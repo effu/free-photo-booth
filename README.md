@@ -12,6 +12,11 @@ What things you need to install the software and how to install them
 
 * [Free Booth from Source Forge](https://sourceforge.net/projects/freebooth/files/?source=effulge)
 
+### Free Photo Booth Source Code
+
+Free Photo Booth Software for a simple offline photo booth
+Clone source from [Source Forge](git clone https://git.code.sf.net/p/freebooth/code freebooth-code)
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development environment running.

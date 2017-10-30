@@ -10,9 +10,7 @@ Take photographs or let your guests take their own photos. Share the images and 
 
 What things you need to install the software and how to install them
 
-```
-[Free Booth from Source Forge](https://sourceforge.net/projects/freebooth/files/?source=effulge)
-```
+* [Free Booth from Source Forge](https://sourceforge.net/projects/freebooth/files/?source=effulge)
 
 ### Installing
 

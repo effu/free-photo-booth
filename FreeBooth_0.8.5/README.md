@@ -1,8 +1,10 @@
-# For all information, please visit my [free-booth.com website](http://free-booth.com)
+# Free Booth
+
+For all information, please visit my [free-booth.com](http://free-booth.com)
 
 # INSTALLATION
 
-configure an tethering application for your camera which copies all pictures you take with your camera directly into the images folder. This will be scanned all the time for new pictures. It is tested with EOS Utility and gphoto2.
+Configure a tethering application for your camera which copies all pictures you take with your camera directly into the images folder. This will be scanned all the time for new pictures. It is tested with EOS Utility and gphoto2.
 
 # START
 

@@ -15,7 +15,8 @@ What things you need to install the software and how to install them
 ## Free Photo Booth Source Code
 
 Free Photo Booth Software for a simple offline photo booth
-Clone source from [Source Forge](https://sourceforge.net/p/freebooth/code/ci/master/tree/FreeBooth_0.8.5/lib/)
+
+You can get the source from [Source Forge](https://sourceforge.net/p/freebooth/code/ci/master/tree/FreeBooth_0.8.5/lib/)
 
 ```
 git clone https://git.code.sf.net/p/freebooth/code freebooth-code

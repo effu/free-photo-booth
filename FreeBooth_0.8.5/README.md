@@ -1,4 +1,4 @@
-#For all information, please visit my [website](http://free-booth.com)
+#For all information, please visit my [free-booth.com website](http://free-booth.com)
 
 #INSTALLATION
 

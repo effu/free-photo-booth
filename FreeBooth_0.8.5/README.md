@@ -2,10 +2,15 @@
 
 For all information, please visit my [free-booth.com](http://free-booth.com)
 
-## Source Code
+## Free Photo Booth Source Code
 
 Free Photo Booth Software for a simple offline photo booth
-Clone source from [Source Forge](git clone https://git.code.sf.net/p/freebooth/code freebooth-code)
+
+Clone source from [Source Forge](https://sourceforge.net/p/freebooth/code/ci/master/tree/src/)
+
+```
+git clone https://git.code.sf.net/p/freebooth/code freebooth-code
+```
 
 # INSTALLATION
 

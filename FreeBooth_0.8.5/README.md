@@ -2,6 +2,11 @@
 
 For all information, please visit my [free-booth.com](http://free-booth.com)
 
+## Source Code
+
+Free Photo Booth Software for a simple offline photo booth
+Clone source from [Source Forge](git clone https://git.code.sf.net/p/freebooth/code freebooth-code)
+
 # INSTALLATION
 
 Configure a tethering application for your camera which copies all pictures you take with your camera directly into the images folder. This will be scanned all the time for new pictures. It is tested with EOS Utility and gphoto2.

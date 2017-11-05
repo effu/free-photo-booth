@@ -28,6 +28,7 @@ A step by step series of examples that tell you have to get a development enviro
 
 ```
 // config
+// to compile the Java source
 ```
 
 And repeat
